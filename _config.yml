@@ -2,16 +2,16 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Perfectroot
+title: p3rf3ctr00t
 # description: This will be meta HTML tag content. This can be ignored.
-description: website by Perfectroot
+description: website by p3rf3ctr00t
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Perfectroot
+username: p3rf3ctr00t
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Welcome aboard
@@ -21,9 +21,6 @@ email: p3rf3ctr00t001@gmail.com
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: p3rf3ctr00t
-#codepen_username: Perfectroot
-#dev_username: Perfectroot
-#linkedin_username: Perfectroot
 twitter_username: p3rf3ctr00t
 
 # ABOUT ME SECTION
