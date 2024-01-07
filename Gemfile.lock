@@ -272,11 +272,10 @@ GEM
       unf_ext
     unf_ext (0.0.8.1)
     unicode-display_width (1.8.0)
-    wdm (0.1.1)
     zeitwerk (2.5.4)
 
 PLATFORMS
-  x64-mingw-ucrt
+  x64-unknown
   x86_64-darwin-19
   x86_64-linux
 
@@ -285,7 +284,6 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-github-metadata
-  wdm (>= 0.1.0)
 
 BUNDLED WITH
    2.4.22
